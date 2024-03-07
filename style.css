@@ -9,4 +9,25 @@
     width: 100%;
     min-height: 100vh;
     background: linear-gradient(185deg, #3b32e7, #08e9a5);
+    padding: 10px;
+}
+
+.to-do{
+    width: 100%;
+    max-width: 540px;
+    background: #fff;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 10px;
+}
+
+.to-do h2{
+    color: #002765;
+    display:inline;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.to-do h2 img{
+    width: 30px;
+    margin-left: 7px;
 }
